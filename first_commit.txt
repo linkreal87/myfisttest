@@ -30,6 +30,7 @@ this is a first commit txt
 this is a first commit txt
 this is a first commit txt
 this is a first commit txt
+this edit by hotfix   //OK
 this is a first commit txt
 this is a first commit txt
 this is a first commit txt
